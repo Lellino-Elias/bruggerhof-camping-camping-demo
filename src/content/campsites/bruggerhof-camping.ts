@@ -175,7 +175,7 @@ const bruggerhofCamping: CampsiteConfig = {
       { src: `${IMG}/gallery-874f682cfc.webp`, alt: "Campingplatz Schwarzsee aus der Vogelperspektive" },
       { src: `${IMG}/gallery-2de7bc8aa4.webp`, alt: "Family Igluhuts aus Holz am Schwarzsee" },
       { src: `${IMG}/amenity-7aecefffc5.webp`, alt: "Dampfbad in der Wellnessoase am Schwarzsee" },
-      { src: `${IMG}/gallery-53da9fc515.webp`, alt: "Igluhut aus Lärchenschindeln im Detail" },
+      { src: `${IMG}/gallery-53da9fc515.webp`, alt: "Igluhut aus Holzschindeln im Detail" },
     ],
   },
 
